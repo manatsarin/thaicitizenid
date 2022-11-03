@@ -15,8 +15,3 @@ def validate(id):
     return True
 
 
-if validate("4928347404300"):
-   print('OK')
-else:
-   print('Incorrect')
-
